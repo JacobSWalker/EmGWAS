@@ -1,2 +1,4 @@
 # EmGWAS
-Epistatic Microbial GWAS using a random forest method
+Epistatic Microbial GWAS.
+
+Currently a work in progress.
